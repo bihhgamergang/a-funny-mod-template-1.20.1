@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "afunnymod:enderite_helmet",
+    "afunnymod:enderite_chestplate",
+    "afunnymod:enderite_leggings",
+    "afunnymod:enderite_boots"
+  ]
+}

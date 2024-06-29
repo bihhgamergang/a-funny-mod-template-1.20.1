@@ -1,0 +1,23 @@
+{
+  "item.afunnymod.enderite_ingot": "Enderite Ingot",
+  "item.afunnymod.raw_enderite": "Raw Enderite",
+
+  "block.afunnymod.enderite_block": "Block of Enderite",
+  "block.afunnymod.raw_enderite_block": "Block of Raw Enderite",
+  "block.afunnymod.enderite_ore": "Enderite Ore",
+
+  "item.afunnymod.golden_steak": "Golden Steak",
+
+  "item.afunnymod.enderite_pickaxe": "Enderite Pickaxe",
+  "item.afunnymod.enderite_axe": "Enderite Axe",
+  "item.afunnymod.enderite_shovel": "Enderite Shovel",
+  "item.afunnymod.enderite_hoe": "Enderite Hoe",
+  "item.afunnymod.enderite_sword": "Enderite Sword",
+
+  "item.afunnymod.enderite_helmet": "Enderite Helmet",
+  "item.afunnymod.enderite_chestplate": "Enderite Chestplate",
+  "item.afunnymod.enderite_leggings": "Enderite Leggings",
+  "item.afunnymod.enderite_boots": "Enderite Boots",
+
+  "itemgroup.new": "New Creative Tab"
+}
