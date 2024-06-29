@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "afunnymod:enderite_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " E ",
+    " E ",
+    " S "
+  ],
+  "result": {
+    "item": "afunnymod:enderite_sword"
+  },
+  "show_notification": true
+}

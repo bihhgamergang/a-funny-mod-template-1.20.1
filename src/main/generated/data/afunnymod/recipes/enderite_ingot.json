@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "afunnymod:enderite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "afunnymod:enderite_ingot"
+  }
+}
